@@ -51,6 +51,7 @@ def get_trending():
             us_trending.append(trend['name'])
     return us_trending
 
+#Records the trending tags into a spreadsheet
 def add_trending_tags(us_trending):
     filename = 'r-t_trending_news.csv'
     with open(filename, 'a', newline='') as file:
