@@ -4,10 +4,10 @@ from tweepy import OAuthHandler
 from datetime import datetime
 
 #Twitter developer account credentials
-consumer_key = "b1u6ewSssdeuWQ2pnELH7o5s0"
-consumer_secret = "JEfXBZfkba62pPrfXzmyoZXFZcUNwG0xl7elb0ZLXuhoECVy3P"
-access_token = "1308202512105779200-aEuy8Q1b6OIJ9ayMbTdNQkmqLK3kt6"
-access_token_secret = "0SCWL59f4g6RozN2XbeENn8HfyNqgovs7QGsp6cKNnOSh"
+consumer_key = ""
+consumer_secret = ""
+access_token = ""
+access_token_secret = ""
 
 #Authentication with Twitter
 auth = OAuthHandler(consumer_key, consumer_secret)
