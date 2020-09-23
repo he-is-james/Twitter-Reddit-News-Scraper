@@ -10,4 +10,4 @@ Collects data from Twitter and Reddit to see the trending title tags and news st
 - Uses the Twitter API with a developer account
 - Allows users to create a list of news accounts they trust and acquires the recent news posts on those accounts
 - Records the top trending tags on Twitter, given a specified location id (WOEID)
--Effective, but lacks the updating the list of new posts, cannot access the Explore News section of Twitter
+- Effective, but lacks the updating the list of new posts, cannot access the Explore News section of Twitter
