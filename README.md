@@ -1,4 +1,4 @@
-# Twitter-Reddit-News-Scraper
+# Twitter/Reddit News Scraper
 Collects data from Twitter and Reddit to see the trending title tags and news stories
 
 ## Program Breakdowns:
