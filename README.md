@@ -3,7 +3,7 @@ Collects data from Twitter and Reddit to see the trending title tags and news st
 
 ## Program Breakdowns:
 ### reddit_manual_scraper
-- Uses BeautifulSoup instead of the Reddit API
+- Uses BeautifulSoup instead of the Reddit API for a simple recorder
 - Takes the titles and the original stories links of the top four posts in the Reddit News section
 - Not very effective, but is a good introduction to web-scraping
 ### twitter_recent_news
